@@ -1,0 +1,20 @@
+{
+  "name": "manipulacion-de-dom",
+  "version": "1.0.0",
+  "description": "Este tutorial solamente se pueba sobre paginas webs para este caso usamos la pagina de bootstrap la cual muestra un teamplate de checkout(finalizacion de compra) https://getbootstrap.com/docs/4.3/examples/checkout/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heokim/manipulacion-de-dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heokim/manipulacion-de-dom/issues"
+  },
+  "homepage": "https://github.com/heokim/manipulacion-de-dom#readme"
+}
